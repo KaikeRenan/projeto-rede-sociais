@@ -2,4 +2,4 @@
 
 <p>Criado com o intuito de mostrar as minhas redes sociais utilizando iframes</p>
 
-<p>Para acessar o site <a href="https://kaikerenan.github.io/projeto-rede-sociais/">Clique Aqui</a></p>
+<p>Para acessar o site <a href="https://kaikerenan.github.io/projeto-rede-sociais/">Clique aqui</a></p>
