@@ -34,7 +34,7 @@ main {
     background: url('../imagens/frame-iphone.png') no-repeat;
 }
 
-#tela {
+iframe#tela {
     position: relative;
     top: 80px;
     left: 22px;
@@ -42,11 +42,11 @@ main {
     height: 471px;
 }
 
-#redes-sociais {
+section#redes-sociais {
     text-align: right;
 }
 
-#redes-sociais > a > img {
+section#redes-sociais > a > img {
     width: 50px; /* já diminuie para altura 50px tbm */
     margin: 10px;
     border-radius: 50%;
